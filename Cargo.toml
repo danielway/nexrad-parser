@@ -1,0 +1,11 @@
+[package]
+name = "nexrad-parser"
+description = "Parses NEXRAD weather radar data into a convenient structure for analysis."
+repository = "https://github.com/danielway/nexrad-parser"
+authors = ["Daniel Way <contact@danieldway.com>"]
+version = "0.1.0"
+license = "MIT"
+edition = "2021"
+exclude = [".github"]
+
+[dependencies]
